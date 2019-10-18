@@ -1,1 +1,1 @@
-# Add your variables here
+favorite_number = 3
